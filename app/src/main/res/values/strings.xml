@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tombol+</string>
+    <string name="a11y_label">Tombol+</string>
+    <string name="a11y_description">Memberi Tombol+ izin menekan kunci layar, menu daya, dan tangkap layar untukmu.</string>
+    <string name="a11y_summary">Untuk ikon Kunci, Power, dan Screenshot</string>
+
+    <string name="shortcut_lock">Kunci</string>
+    <string name="shortcut_power">Power</string>
+    <string name="shortcut_volume">Volume</string>
+    <string name="shortcut_screenshot">Screenshot</string>
+
+    <string name="shortcut_lock_desc">Matikan layar</string>
+    <string name="shortcut_power_desc">Menu daya sistem: mulai ulang atau matikan</string>
+    <string name="shortcut_volume_desc">Panel volume bawaan Android</string>
+    <string name="shortcut_screenshot_desc">Tangkap layar setelah jeda</string>
+
+    <string name="toast_need_a11y">Aktifkan aksesibilitas Tombol+ dulu</string>
+    <string name="toast_screenshot_wait">Screenshot dalam %1$d detik — buka aplikasinya sekarang</string>
+    <string name="toast_busy">Tunggu sebentar, lalu coba lagi</string>
+</resources>

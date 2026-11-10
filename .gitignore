@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Android
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+captures/
+
+# IDE
+.idea/
+*.iml
+
+# Scratch / hasil tes lokal
+.test/
+
+# OS
+.DS_Store
+Thumbs.db
